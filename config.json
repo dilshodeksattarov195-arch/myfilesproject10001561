@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevecrypt",
+        "uuid": 6960499,
+        "checksum": "6txfca"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
